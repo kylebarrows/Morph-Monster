@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8443315784393524082
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -184.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355208, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355209, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2791575
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355209, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_Color.g
+      value: 0.26155213
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355209, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_Color.r
+      value: 0.5849056
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355209, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355209, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -1097102573
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355210, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: FormID
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355211, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_Size.x
+      value: 0.72498757
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355211, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.037378043
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008299622981355253, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}
+      propertyPath: m_Name
+      value: BruteFormCorpse
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 845b71c2b55848545bffa298b7389ee6, type: 3}

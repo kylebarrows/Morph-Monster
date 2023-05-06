@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RangerFormAnimationController
+  m_Controller: {fileID: 9100000, guid: 1e56e55d8f742624e840e47dd6cfd8b0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 89aa0d3d3a228e247acde9ab7af5f316, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c5035729fcdf42440bdaa583a0a091ea, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c51d6adffc4f47243a9b658090131e14, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d744e936233380a4caab4f52dfabde4f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 46c115effa76f2f41bbdf79c16c3f2b9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 02f2ccc95add14d4395a827fbbe4dd43, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ccc5f4e27cbc91b40bf09deb26215469, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c5263b6728a21b8429fd6d2a7f1676fb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3202a50b497c10b44a657f3cf249ac59, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d08c73e35d4d93c42a2d6c56bad55f18, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1f13bdb138e510c418295c998b421599, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 038cb81998379b24e849854f9cdcf974, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c9ca539b0852c3645a50b184eef70ba5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7a511d5be8cf93b43ba2307299c39a56, type: 2}

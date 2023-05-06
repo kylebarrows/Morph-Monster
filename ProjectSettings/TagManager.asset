@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Climbable
+  - Swappable
+  - ConsumableObject
+  - PushPullObject
+  - StartPosition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - TwoWayPlatform
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PlayerProjectile
+  - ConsumableObject
+  - PushPull
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background_2
+    uniqueID: 1606296495
+    locked: 0
+  - name: Background_1
+    uniqueID: 2584835239
+    locked: 0
+  - name: Ground
+    uniqueID: 558689623
+    locked: 0
+  - name: Character
+    uniqueID: 3197864723
+    locked: 0
+  - name: Foreground_1
+    uniqueID: 3027890865
+    locked: 0
